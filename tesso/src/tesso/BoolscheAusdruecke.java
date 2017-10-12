@@ -1,6 +1,6 @@
 package tesso;
-import java.util.*;
-
+//import java.util.*;
+/*
 public class BoolscheAusdruecke
 {
    public static void main (String[] args)
@@ -195,3 +195,4 @@ public class BoolscheAusdruecke
 	meinString = meinScan.nextLine();
    }
 }
+*/
