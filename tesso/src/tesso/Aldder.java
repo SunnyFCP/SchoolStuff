@@ -27,6 +27,7 @@ public class Aldder {
 		byear = incro.nextInt();
 		
 		System.out.println("\n\nYou are ");
+		incro.close();
 	}
 	private int calc(int day,int month,int year,int bday,int bmonth,int byear){
 		int age = 0;

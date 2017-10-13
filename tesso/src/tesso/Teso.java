@@ -21,6 +21,7 @@ public class Teso {
 		//golum(locosa.nextLine(), locosa.nextInt(),locosa.nextInt());
 		System.out.println("Gimme a Euro!");
 		geldGolum(locosa.nextDouble());
+		locosa.close();
 	}
 	private static void golum(String wahl,int Ring1, int Ring2) 
 	{
